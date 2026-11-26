@@ -1,14 +1,14 @@
 ---
-title: 펭귄얼음마을 개인정보 처리방침
+title: 얼음벽바둑 개인정보 처리방침
 ---
 
-# 펭귄얼음마을 개인정보 처리방침 (Privacy Policy)
+# 얼음벽바둑 개인정보 처리방침 (Privacy Policy)
 
 시행일: 2026년 11월 25일
 
 ## 한국어
 
-**펭귄얼음마을**(이하 "앱")은 이용자의 개인정보를 **수집하지 않습니다.**
+**얼음벽바둑**(이하 "앱")은 이용자의 개인정보를 **수집하지 않습니다.**
 
 1. **수집하는 정보 없음**: 앱은 이름, 이메일, 위치, 기기 식별자, 사용 기록 등 어떤 개인정보도 수집하거나 외부로 보내지 않습니다.
 2. **인터넷 사용 없음**: 앱은 인터넷 연결 없이 동작하며, 서버나 데이터베이스가 없습니다. 광고, 분석 도구, 결제 기능도 없습니다.
@@ -19,7 +19,7 @@ title: 펭귄얼음마을 개인정보 처리방침
 
 ## English
 
-**Penguin Ice Village** ("the App") **does not collect any personal data.**
+**Ice Wall Baduk** ("the App") **does not collect any personal data.**
 
 1. **No data collected**: The App does not collect or transmit any personal information such as names, email addresses, location, device identifiers, or usage data.
 2. **No internet use**: The App works fully offline. It has no servers or databases, and contains no ads, analytics, or in-app purchases.
